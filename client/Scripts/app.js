@@ -1,3 +1,7 @@
+// Dean Carlo Pinlac
+// 301172869
+// Midterm Test - My Favorite Books
+
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
